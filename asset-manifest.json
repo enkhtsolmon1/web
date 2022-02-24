@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.81ec7c09.css",
-    "main.js": "/static/js/main.60ef0cf5.js",
+    "main.js": "/static/js/main.afc6495e.js",
     "static/media/khu.png": "/static/media/khu.c43e9853f07771a755b8.png",
     "static/media/khuMon.png": "/static/media/khuMon.9e1c5905d70f7f4a75e2.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.81ec7c09.css",
-    "static/js/main.60ef0cf5.js"
+    "static/js/main.afc6495e.js"
   ]
 }
